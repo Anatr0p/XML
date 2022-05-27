@@ -1,4 +1,8 @@
 <HOMEWORK_3_XML>
 	<NAME>Learning Git</NAME>
-	<TASK>Make a XML file</TASK>
+	<TASK>Fill some things</TASK>
+	<MYNAME>Vladislav Plikin</MYNAME>
+	<AGE>22</AGE>
+	<PETS>Zero</PETS>
+	<SALARY>Three rice plates per week</SALARY>
 </HOMEWORK_3_XML>
